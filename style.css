@@ -2,3 +2,12 @@ p {
   font-family: arial;
   color: teal;
 }
+.header{
+  font-family: cursive;
+  color: purple;
+  text-transform: capitalize;
+}
+.ah{
+  font-family: sans-serif;
+  color: orange
+}
